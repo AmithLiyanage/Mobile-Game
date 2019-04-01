@@ -57,6 +57,7 @@
   <ItemGroup>
     <Compile Include="Assets\Hexagon.cs" />
     <Compile Include="Assets\Player.cs" />
+    <Compile Include="Assets\Rotater.cs" />
     <Compile Include="Assets\Spawner.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Acer/Documents/Mobile Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
